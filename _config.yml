@@ -1,7 +1,7 @@
 name: Flooring by Cogdill
 favicon: null
-layout_spectrum: 0.866194628411904
-typography_spectrum: 0.38573508244007826
+layout_spectrum: 0.25253
+typography_spectrum: 0.50678
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.8948270166292787
+    - '#de0202'
+    - '#ffffff'
+    - '#33669a'
+    - '#000000'
+    - '#b3b3b3'
+  brandStrength: 0.625
   lightness: 0.7317627628799528
-  saturation: 0.7074755660723895
+  saturation: 0.6875
   rhythmicContrast: 0.9531189664267004
 purpose: []
