@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Flooring by Cogdill]]></title>
         <description><![CDATA[Flooring by Cogdill]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/flooring-by-cogdill/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 18:33:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 18:33:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/flooring-by-cogdill/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Products</p>]]></description>
-            <link>undefinedproducts/index.html</link>
+            <title><![CDATA[Carpet]]></title>
+            <description><![CDATA[<p>Carpet</p>]]></description>
+            <link>https://thegrid.ai/flooring-by-cogdill/products/index.html</link>
             <guid isPermaLink="false">11b73b33-14f3-40d2-bd6a-7a25961fc7c3</guid>
-            <pubDate>Thu, 21 Apr 2016 18:33:07 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2016 18:33:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
